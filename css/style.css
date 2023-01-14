@@ -184,9 +184,11 @@ textarea {
   display: none; }
 
 .home-hero {
-  color: #fff;
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
-  background-position: center;
+  color: rgb(255, 255, 255);
+  background: linear-gradient(to right, rgba(137, 28, 177, 0.8), rgba(0, 98, 185, 0.8)), url(./IMG_20220929_203659.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 2000px 1000px;
   height: 100vh;
   min-height: 80rem;
   max-height: 120rem;
